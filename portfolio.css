@@ -1,20 +1,30 @@
 body {
-    background-image: url("https://storage.needpix.com/rsynced_images/sunset-profile-background.jpg");
+    background-image: url("https://plus.unsplash.com/premium_photo-1667113144491-eaccf04e894b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y290dG9uJTIwY2FuZHklMjBza3l8ZW58MHx8MHx8fDA%3D");
+    background-size: cover;
    
 }
 
 h1 {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(218, 177, 226);
+    border-radius: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
 }
 
 header {
     font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
 }
 
 p {
+    margin-top: 20px;
     font-size: 18px;
     margin-right: 60%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-;
+    text-align:left;
 }
